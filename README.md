@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developer.
 - 🌱 I’m currently learning Python, Git, GitHub, etc.
 - 💞️ I’m looking to collaborate on a better world.
-- 📫 How to reach me lucas.andrade13.br@gmail.com
+- 📫 How to reach me lucas.andrade13.br@gmail.com or Linkedin: https://www.linkedin.com/in/lucas-da-silva-andrade-a29015295/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
